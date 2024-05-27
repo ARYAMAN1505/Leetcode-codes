@@ -20,3 +20,9 @@ Use set
 check if element present already then return true
 else add
 ***********************************************
+/*********MAXIMUM SUM SUBARRAY**************/
+create max
+create curr
+update max after every iteration
+make current=0 if curr<0
+********************************************
