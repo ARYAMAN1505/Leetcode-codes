@@ -15,3 +15,8 @@ start traversal from index 1 and update minimum and profit
 profit=math.max
 min=math.min
 ********************************************
+/*********CONTAINS DUPLICATE***************/
+Use set
+check if element present already then return true
+else add
+***********************************************
