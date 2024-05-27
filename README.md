@@ -7,3 +7,11 @@ to check if key present-map.containsKey
 to add value-map.put
 to get index of value-map.get
 ********************************************
+/*********BEST TIME TO SELL STOCKS********/
+Use dp
+create a variable to store  minimum
+one variable to store profit
+start traversal from index 1 and update minimum and profit 
+profit=math.max
+min=math.min
+********************************************
